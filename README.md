@@ -1,4 +1,6 @@
 # ATPG-GirlHackathon
+make sure to have a g++ compiler for running the files
+
 Clone the file in your local machine
 
 ```
