@@ -30,4 +30,4 @@ run (for linux):
 ```
 ./script
 ```
-You will be prompted to provide the fault location and the type of fault (SA0 or SA1), after entering the required arguments press enter and the test pattern will be saved in output.txt
+You will be prompted to provide the fault location and the type of fault (SA0 or SA1), after entering the required arguments press enter and the test pattern will be saved in Output.txt
