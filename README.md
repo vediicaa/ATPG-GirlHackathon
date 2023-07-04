@@ -1,7 +1,7 @@
 # ATPG-GirlHackathon
 The project aims to develop an algorithm for fault detection in combinational circuits. The code is written under the assumption that only one stuck at fault will be generated. It is inlfuenced from the D algorithm and uses a path tracking algorithm to test the faulty nodes and generate the test vector.
 
-The circuit is stored in INPUT.txt file
+The circuit is stored in INPUT.txt file. You can change the contents of the cicruit in the same file
 
 Make sure to have a g++ compiler for running the files
 
