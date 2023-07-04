@@ -18,7 +18,7 @@ cd ATPG-GirlHackathon
 run the following command 
 
 ```
-g++ -o script script.cpp
+make script
 ```
 If there are no errors, the compilation is successful and an script.exe executable will be created, 
 
