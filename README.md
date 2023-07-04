@@ -1,6 +1,7 @@
 # ATPG-GirlHackathon
-The project aims to develop an algorithm for fault detection in combinational circuits. The code is written under the assumption that only one stuck at fault will be generated.
-make sure to have a g++ compiler for running the files
+The project aims to develop an algorithm for fault detection in combinational circuits. The code is written under the assumption that only one stuck at fault will be generated.It is inlfuenced from the D algorithm adn uses a path tracking algorithm to test the faulty nodes and generate the test vector.
+
+Make sure to have a g++ compiler for running the files
 
 Clone the file in your local machine
 
