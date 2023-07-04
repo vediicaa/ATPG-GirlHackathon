@@ -3,7 +3,7 @@ The project aims to develop an algorithm for fault detection in combinational ci
 
 The circuit is stored in INPUT.txt file. You can change the contents of the cicruit in the same file
 
-Pre-requisites: C++ compiler ( g++ [version: 6.3.0])
+Pre-requisites: C++ compiler ( g++ [version: 6.3.0] ), make sure the path is added to the environment variables
 
 
 Clone the file in your local machine
